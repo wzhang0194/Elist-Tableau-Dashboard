@@ -1,5 +1,5 @@
 # Portfolio Project - Elist Tableau Dashboard
-Analyzing Zoom subscription trends from 2020-2021. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/warren.zhang/viz/ElistDashboard_16890377882300/Dashboard1).  
+Analyzing Elist sales and refund trends from 2019-2022. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/warren.zhang/viz/ElistDashboard_16890377882300/Dashboard1).  
 
 ![tableau dashboard](https://github.com/wzhang0194/Elist-Tableau-Dashboard/assets/129554366/e5bd4947-e11d-4139-b1fd-454ba175226b)
 
